@@ -1,0 +1,7 @@
+{
+  "name": "uxdev",
+  "root": "./public",
+  "clean_urls": true,
+  "cache_control": {},
+  "routes": {}
+}
